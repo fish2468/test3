@@ -1,0 +1,8 @@
+{
+    "name": "test_3/demo1",
+    "description": "hello",
+    "type": "project",
+    "require": {
+        "php": ">=5.4"
+    }
+}
